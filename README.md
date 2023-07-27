@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Steghen
+- 👋 Hi, I’m @Steghen (Stephen)
 - 👀 I’m interested in medicine
-- 🌱 I’m currently learning Biochemistry and Microbiology
-- 💞️ I’m looking to collaborate on biotechnology
+- 🌱 I’m currently a student of cybersecurity and medicine
+- 💞️ I’m looking to collaborate in research 
 - 📫 How to reach me escrivastephens@gmail.com
 
 <!---
